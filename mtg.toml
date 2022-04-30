@@ -1,0 +1,2 @@
+secret = "xxx"
+bind-to = "0.0.0.0:443"
